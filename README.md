@@ -66,6 +66,8 @@ I am a Frontend Developer and React.js Developer with a passion for building mod
   ---
 
   ## Projects
- 
+  - [**Amazon-clone**](https://iridescent-meringue-3d4339.netlify.app/) -A responsive Amazon homepage clone built with HTML5 and CSS3, showcasing modern UI design, responsive layouts, and clean frontend development.
+  - [**Quizz-app**](https://quizz-01d333.netlify.app/) - A responsive Quiz App built with React.js, featuring interactive quizzes, dynamic questions, and real-time score tracking.
+  - 
   
   
